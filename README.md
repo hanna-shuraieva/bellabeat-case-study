@@ -1,6 +1,6 @@
 # bellabeat-case-study
 
-![logo-01.png](attachment:bc1cac7e-99b4-4bf4-94c2-a7401f645c64.png)
+![bellabeat logo](./logo-01.png)
 
 ## Case study description
 
